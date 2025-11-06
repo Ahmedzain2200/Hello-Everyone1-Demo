@@ -1,2 +1,4 @@
-public class demo 
+
 public.static.void.
+psvm 
+sout("Hello words")
